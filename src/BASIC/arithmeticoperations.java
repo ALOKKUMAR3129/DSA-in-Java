@@ -1,6 +1,6 @@
 package BASIC;
 
-public class arithmetic_operations {
+public class arithmeticoperations {
     static void main(String[] args) {
         int x = 5, y = 3;
         System.out.println(x + y);

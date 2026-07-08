@@ -1,6 +1,6 @@
 package BASIC;
 
-public class tsa_of_cubiod {
+public class tsaofcubiod {
     static void main(String[] args) {
         double l = 5;
         double b = 5;

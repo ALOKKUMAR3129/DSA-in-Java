@@ -1,6 +1,6 @@
 package BASIC;
 
-public class area_of_circle {
+public class areaofcircle {
     static void main(String[] args) {
         double r = 3.8;
         double a = 3.141592 * r * r;

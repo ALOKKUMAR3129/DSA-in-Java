@@ -1,6 +1,6 @@
 package BASIC;
 
-public class variables_basics {
+public class variablesbasics {
     static void main(String[] args) {
         int x = 5;
         System.out.println(x);
