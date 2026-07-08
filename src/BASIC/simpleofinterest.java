@@ -11,7 +11,7 @@ public class simpleofinterest {
         double r = sc.nextDouble();
         System.out.print("ENTER TIME = ");
         double t = sc.nextDouble();
-        double si = (p*r*t)/100;
+        double si = (p*r*t)/100.0;
         System.out.println("SIMPLE INTEREST = " + si);
         sc.close();
 
