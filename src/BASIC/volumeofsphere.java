@@ -9,7 +9,6 @@ public class volumeofsphere {
         double r = sc.nextDouble();
         double a = (4.0/3.0) *3.141592 * r * r * r;
         System.out.println("Volume of Sphere = " + a);
-
-
+        sc.close();
     }
 }

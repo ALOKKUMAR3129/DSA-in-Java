@@ -9,7 +9,7 @@ public class areaofcircle {
         double r = sc.nextDouble();
         double a = 3.141592 * r * r;
         System.out.println("Area of Circle = " + a);
-
+        sc.close();
 
     }
 }

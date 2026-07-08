@@ -13,6 +13,7 @@ public class tsaofcuboid {
         double h = sc.nextDouble();
         double tsa = 2*((l*b)+(b*h)+(h*l));
         System.out.println("TSA of Cuboid = " + tsa);
+        sc.close();
 
     }
 }
