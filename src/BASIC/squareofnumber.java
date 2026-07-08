@@ -9,5 +9,6 @@ public class squareofnumber {
         double n = sc.nextDouble();
         double s = n * n;
         System.out.println("SQUARE OF NUMBER = " + s);
+        sc.close();
     }
 }
