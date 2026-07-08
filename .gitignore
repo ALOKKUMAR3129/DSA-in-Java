@@ -32,8 +32,8 @@ bin/
 # IntelliJ IDEA
 .idea/
 
-# Compiled output
-out/
+
 
 # Build files
 *.class
+
