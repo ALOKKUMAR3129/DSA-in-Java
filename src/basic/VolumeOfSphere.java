@@ -1,9 +1,9 @@
-package BASIC;
+package basic;
 
 import java.util.Scanner;
 
-public class volumeofsphere {
-    static void main(String[] args) {
+public class VolumeOfSphere {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Radius = ");
         double r = sc.nextDouble();

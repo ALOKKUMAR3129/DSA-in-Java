@@ -1,7 +1,7 @@
-package BASIC;
+package basic;
 
-public class variablesbasics {
-    static void main(String[] args) {
+public class VariablesBasics {
+    public static void main(String[] args) {
         int x = 5;
         System.out.println(x);
         int y;

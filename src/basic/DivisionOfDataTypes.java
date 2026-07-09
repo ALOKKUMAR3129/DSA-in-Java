@@ -1,7 +1,7 @@
-package BASIC;
+package basic;
 
-public class divisionofdatatypes {
-    static void main(String[] args) {
+public class DivisionOfDataTypes {
+   public static void main(String[] args) {
         double x = 5/2;
         System.out.println(x);
 

@@ -1,9 +1,9 @@
-package BASIC;
+package basic;
 
 import java.util.Scanner;
 
-public class sumof3numbers {
-    static void main(String[] args) {
+public class SumOfThreeNumbers {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("ENTER 1ST NUMBER =");
         double a = sc.nextDouble();

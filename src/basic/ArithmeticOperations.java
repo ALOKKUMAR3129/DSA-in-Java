@@ -1,7 +1,7 @@
-package BASIC;
+package basic;
 
-public class arithmeticoperations {
-    static void main(String[] args) {
+public class ArithmeticOperations {
+   public static void main(String[] args) {
         int x = 5, y = 3;
         System.out.println(x + y);
         System.out.println(x - y);
